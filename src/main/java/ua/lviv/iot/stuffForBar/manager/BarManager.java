@@ -1,5 +1,5 @@
 package ua.lviv.iot.stuffForBar.manager;
-
+a
 import java.util.LinkedList;
 import java.util.List;
 
